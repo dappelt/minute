@@ -15,7 +15,7 @@ npm install
 npm run build
 ```
 
-Now go to `chrome://extensions`, select "Load unpacked extension", and nagivate
+Now go to `chrome://extensions`, tick the checkbox "Developer mode", select "Load unpacked extension", and nagivate
 to the folder where you cloned this repository.
 
 ## Enable your Site
